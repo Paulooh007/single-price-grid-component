@@ -58,6 +58,7 @@ p {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, auto);
+    height:470px;
   }
   .community {
     grid-column: 1/3;
