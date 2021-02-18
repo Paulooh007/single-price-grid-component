@@ -50,7 +50,8 @@ p {
   border-radius: 0.5rem;
   overflow: hidden;
   max-width: 40rem;
-  margin: 100px auto;
+  margin: auto;
+  height: 100%;
 }
 @media only screen and (min-width: 62.5em) {
   .price {
